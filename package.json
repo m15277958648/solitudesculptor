@@ -11,5 +11,10 @@
     "url": "https://github.com/m15277958648/solitudesculptor.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "beach-tea": "^1.1.4",
+    "cdratan": "^1.0.2",
+    "jpamelddd": "^1.1.0"
+  }
 }
